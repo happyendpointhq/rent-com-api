@@ -224,7 +224,7 @@ rather than errors.
 | [`examples/python/quickstart.py`](examples/python/quickstart.py) | Location lookup, a filtered search with per-bedroom rent, one full listing with floor plans |
 | [`examples/python/search_to_csv.py`](examples/python/search_to_csv.py) | Pages through a whole search at 500 rows a page and writes a flat CSV |
 | [`examples/python/watchlist.py`](examples/python/watchlist.py) | Re-checks saved listings for rent changes and delistings with `/listings-by-ids` |
-| [`examples/python/rent_check.py`](examples/python/rent_check.py) | Compares a listing's asking rent with the market median around it (needs a plan that includes `/rent-estimate`) |
+| [`examples/python/rent_check.py`](examples/python/rent_check.py) | Compares a listing's asking rent with the market median around it |
 | [`examples/javascript/quickstart.mjs`](examples/javascript/quickstart.mjs) | The quickstart in Node 18+, no dependencies |
 | [`samples/`](samples/) | Documented example responses for six endpoints |
 
@@ -282,7 +282,7 @@ JSON.
 
 ### Is there a free Rent.com API?
 
-Plans, including any free tier, are on the [RapidAPI listing](https://rapidapi.com/happyendpoint/api/rent-com1), where you can test every endpoint once subscribed.
+Yes. The [RapidAPI listing](https://rapidapi.com/happyendpoint/api/rent-com1) has a free plan, and every endpoint can be tried on it.
 
 ### How do I use the Rent.com API in Python?
 

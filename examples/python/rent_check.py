@@ -7,8 +7,6 @@ Takes the listing's price for that bedroom count (from price_by_beds), then asks
 and duplexes (apartment listings are not comparables), so for an apartment community it
 tells you how it sits against the private rentals nearby.
 
-/rent-estimate is not included in every RapidAPI plan. On a plan without it, the call
-returns "This endpoint is disabled for your subscription".
 """
 
 import argparse
