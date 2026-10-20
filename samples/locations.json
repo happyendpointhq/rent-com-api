@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "query": "austin",
+    "count": 2,
+    "locations": [
+      {
+        "location_slug": "texas/austin",
+        "location_id": "4805000",
+        "name": "Austin, TX",
+        "type": "city",
+        "city": "Austin",
+        "state": "Texas",
+        "state_code": "TX",
+        "latitude": 30.2669,
+        "longitude": -97.7428,
+        "state_bbox": [
+          -106.645646,
+          25.837377
+        ],
+        "url": "https://www.rent.com/texas/austin/"
+      },
+      {
+        "location_slug": "ohio/austintown",
+        "location_id": "3903184",
+        "name": "Austintown, OH",
+        "type": "city",
+        "city": "Austintown",
+        "state": "Ohio",
+        "state_code": "OH",
+        "latitude": 41.1017,
+        "longitude": -80.7647,
+        "state_bbox": [
+          -84.820159,
+          38.403202
+        ],
+        "url": "https://www.rent.com/ohio/austintown/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "success": true,
+  "data": {
+    "location": {
+      "location_slug": "texas/austin",
+      "name": "Austin, TX",
+      "type": "city"
+    },
+    "total": 6747,
+    "counting": "listings",
+    "page": 1,
+    "page_size": 50,
+    "total_pages": 135,
+    "has_more": true,
+    "listings": [
+      {
+        "listing_id": "lc5897531",
+        "name": "Centro Studio Homes",
+        "property_type": "apartments",
+        "url": "https://www.rent.com/apartment/centro-studio-homes-austin-tx-lc5897531",
+        "address": "824 Camino La Costa",
+        "full_address": "824 Camino La Costa, Austin, TX 78752",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78752",
+        "latitude": 30.329345,
+        "longitude": -97.70343,
+        "price": 695,
+        "price_text": "$695+",
+        "price_range": {
+          "min": 695,
+          "max": 1114
+        },
+        "beds": {
+          "min": 0,
+          "max": 0
+        },
+        "beds_text": "Studio",
+        "baths": {
+          "min": 1,
+          "max": 1
+        },
+        "baths_text": "1 Bath",
+        "sqft": {
+          "min": null,
+          "max": null
+        },
+        "sqft_text": null,
+        "price_by_beds": [
+          {
+            "beds": 0,
+            "min": 695,
+            "max": 1114
+          }
+        ],
+        "unit_name": null,
+        "availability_status": "TODAY",
+        "units_available": 8,
+        "units_available_text": "8 Units Available",
+        "filter_match": null,
+        "primary_photo_url": "https://i.rent.com/a1a79d9b1bdf7610bfab463dfa1b2cf2",
+        "photo_count": 37,
+        "has_price_drop": true,
+        "price_drop": {
+          "overall": null,
+          "by_floor_plan": [
+            {
+              "floor_plan_id": "lc5897531_3446318_0_1_0",
+              "amount": 309
+            }
+          ]
+        },
+        "deals": [
+          {
+            "description": "FALL IN LOVE WITHC ENTRO Homes starting at $699 plus up to 8-WEEKS FREE on select floor plans! CALL NOW!",
+            "category": "Special Offer"
+          }
+        ],
+        "deal_types": [
+          {
+            "kind": "FREE_TIME",
+            "text": "8 Weeks Free"
+          }
+        ],
+        "management_company": "Firmus Management",
+        "phone": "5128077654",
+        "phone_text": "(512) 807-7654",
+        "contact_routing": "via_rent_com",
+        "updated_at": "2026-09-22T00:00:00.000Z",
+        "page_views": 283,
+        "demand_label": null,
+        "vibes": [
+          "Great Price",
+          "Easy Access"
+        ],
+        "badges": [],
+        "has_3d_tour": true,
+        "listing_source": "ZILLOW",
+        "verified": true,
+        "neighborhood_ids": [
+          9216,
+          825607
+        ],
+        "city_ids": [
+          "4805000"
+        ],
+        "neighborhoods": [
+          "East Austin",
+          "St. Johns"
+        ],
+        "building_id": null,
+        "building_url": null,
+        "listing_feed": null,
+        "distance_miles": 4.91
+      },
+      {
+        "listing_id": "lc6665916",
+        "name": "Park Place at Loyola Apartments",
+        "property_type": "apartments",
+        "url": "https://www.rent.com/apartment/park-place-at-loyola-apartments-austin-tx-lc6665916",
+        "address": "6200 Loyola Ln",
+        "full_address": "6200 Loyola Ln, Austin, TX 78724",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78724",
+        "latitude": 30.302809,
+        "longitude": -97.65003,
+        "price": 823,
+        "price_text": "$823+",
+        "price_range": {
+          "min": 823,
+          "max": 1515
+        },
+        "beds": {
+          "min": 1,
+          "max": 3
+        },
+        "beds_text": "1–3 Beds",
+        "baths": {
+          "min": 1,
+          "max": 2
+        },
+        "baths_text": "1–2 Baths",
+        "sqft": {
+          "min": 786,
+          "max": 1106
+        },
+        "sqft_text": "786–1106 Sqft",
+        "price_by_beds": [
+          {
+            "beds": 1,
+            "min": 823,
+            "max": 856
+          },
+          {
+            "beds": 2,
+            "min": 908,
+            "max": 908
+          }
+        ],
+        "unit_name": null,
+        "availability_status": "TODAY",
+        "units_available": 7,
+        "units_available_text": "7 Units Available",
+        "filter_match": null,
+        "primary_photo_url": "https://i.rent.com/477099a73119271ba02c3b3ee7cffccf",
+        "photo_count": 40,
+        "has_price_drop": false,
+        "price_drop": null,
+        "deals": [
+          {
+            "description": "Move in by 9/30 and receive one full month of rent free!",
+            "category": "Special Offer"
+          }
+        ],
+        "deal_types": [],
+        "management_company": "Highmark Residential",
+        "phone": "7373940465",
+        "phone_text": "(737) 394-0465",
+        "contact_routing": "via_rent_com",
+        "updated_at": "2026-09-22T00:00:00.000Z",
+        "page_views": 225,
+        "demand_label": "High Demand",
+        "vibes": [
+          "Easy Access",
+          "Luxury Living"
+        ],
+        "badges": [
+          "Income Restricted"
+        ],
+        "has_3d_tour": false,
+        "listing_source": "ZILLOW",
+        "verified": true,
+        "neighborhood_ids": [
+          1059798
+        ],
+        "city_ids": [
+          "4805000"
+        ],
+        "neighborhoods": [
+          "Northeast Austin"
+        ],
+        "building_id": null,
+        "building_url": null,
+        "listing_feed": null,
+        "distance_miles": 6.07
+      }
+    ]
+  }
+}

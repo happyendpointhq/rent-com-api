@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "data": {
+    "listing_id": "lc6705165",
+    "walk_score": 70,
+    "walk_description": "Very Walkable",
+    "transit_score": 48,
+    "transit_description": "Some Transit",
+    "transit_summary": "9 nearby routes: 9 bus, 0 rail, 0 other",
+    "bike_score": 69,
+    "bike_description": "Bikeable",
+    "categories": {
+      "culture": 22,
+      "errands": 82,
+      "grocery": 88,
+      "parks": 11,
+      "schools": 67,
+      "shopping": 83,
+      "dining": 77
+    },
+    "walkscore_url": "https://www.walkscore.com/score/loc/lat=30.358966/lng=-97.700790/",
+    "updated_at": "2026-02-11T17:04:29.000Z"
+  }
+}

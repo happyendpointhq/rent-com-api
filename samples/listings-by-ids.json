@@ -1,0 +1,185 @@
+{
+  "success": true,
+  "data": {
+    "requested": 2,
+    "found": 2,
+    "not_found": [],
+    "listings": [
+      {
+        "requested_id": "lc6705165",
+        "listing_id": "lc6705165",
+        "name": "The Ivy",
+        "property_type": "apartments",
+        "url": "https://www.rent.com/apartment/the-ivy-austin-tx-lc6705165",
+        "address": "8912 N Lamar Blvd",
+        "full_address": "8912 N Lamar Blvd, Austin, TX 78753",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78753",
+        "latitude": 30.358966,
+        "longitude": -97.70079,
+        "price": 680,
+        "price_text": "$680+",
+        "price_range": {
+          "min": 680,
+          "max": 1250
+        },
+        "beds": {
+          "min": 0,
+          "max": 2
+        },
+        "beds_text": "Studio–2 Beds",
+        "baths": {
+          "min": 1,
+          "max": 1
+        },
+        "baths_text": "1 Bath",
+        "sqft": {
+          "min": 479,
+          "max": 816
+        },
+        "sqft_text": "479–816 Sqft",
+        "price_by_beds": [
+          {
+            "beds": 0,
+            "min": 680,
+            "max": 900
+          },
+          {
+            "beds": 1,
+            "min": 750,
+            "max": 1050
+          }
+        ],
+        "unit_name": null,
+        "availability_status": "TODAY",
+        "units_available": 37,
+        "units_available_text": "10+ Units Available",
+        "filter_match": null,
+        "primary_photo_url": "https://i.rent.com/4f4d1bfbf7b42b1caa73c5c0ceff552c",
+        "photo_count": 19,
+        "has_price_drop": false,
+        "price_drop": null,
+        "deals": [
+          {
+            "description": "Receive up to 8 weeks free for a limited time!  Don't miss out, contact our office team today for more details!",
+            "category": "Special Offer"
+          }
+        ],
+        "deal_types": [
+          {
+            "kind": "FREE_TIME",
+            "text": "8 Weeks Free"
+          }
+        ],
+        "management_company": "Sandalwood Management",
+        "phone": "7373632554",
+        "phone_text": "(737) 363-2554",
+        "contact_routing": "via_rent_com",
+        "updated_at": "2026-09-22T00:00:00.000Z",
+        "page_views": 281,
+        "demand_label": "High Demand",
+        "vibes": [],
+        "badges": [],
+        "has_3d_tour": false,
+        "listing_source": "ZILLOW",
+        "verified": true,
+        "neighborhood_ids": [
+          9197,
+          75922
+        ],
+        "city_ids": [
+          "4805000"
+        ],
+        "neighborhoods": [
+          "Northwest Austin",
+          "North Austin"
+        ],
+        "building_id": null,
+        "building_url": null,
+        "listing_feed": null
+      },
+      {
+        "requested_id": "lc6820590",
+        "listing_id": "lc6820590",
+        "name": "912 Catalpa St",
+        "property_type": "house",
+        "url": "https://www.rent.com/r/912-catalpa-st-austin-tx-lc6820590",
+        "address": "912 Catalpa St",
+        "full_address": "912 Catalpa St, Austin, TX 78702",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78702",
+        "latitude": 30.271587,
+        "longitude": -97.72984,
+        "price": 2100,
+        "price_text": "$2,100",
+        "price_range": {
+          "min": 2100,
+          "max": 2100
+        },
+        "beds": {
+          "min": 3,
+          "max": 3
+        },
+        "beds_text": "3 Beds",
+        "baths": {
+          "min": 1,
+          "max": 1
+        },
+        "baths_text": "1 Bath",
+        "sqft": {
+          "min": 728,
+          "max": 728
+        },
+        "sqft_text": "728 Sqft",
+        "price_by_beds": [
+          {
+            "beds": 3,
+            "min": 2100,
+            "max": 2100
+          }
+        ],
+        "unit_name": null,
+        "availability_status": "TODAY",
+        "units_available": null,
+        "units_available_text": "1 Unit Available",
+        "filter_match": null,
+        "primary_photo_url": "https://i.rent.com/ad74b05b4017413e81353624d174792e",
+        "photo_count": 15,
+        "has_price_drop": false,
+        "price_drop": null,
+        "deals": [],
+        "deal_types": [],
+        "management_company": "Example Realty Jane Example",
+        "phone": "5550100100",
+        "phone_text": "(555) 010-0100",
+        "contact_routing": "direct_agent",
+        "updated_at": "2026-06-25T20:18:56.000Z",
+        "page_views": null,
+        "demand_label": null,
+        "vibes": [
+          "Near Nature"
+        ],
+        "badges": [],
+        "has_3d_tour": false,
+        "listing_source": "LISTHUB",
+        "verified": false,
+        "neighborhood_ids": [
+          9172,
+          825607
+        ],
+        "city_ids": [
+          "4805000"
+        ],
+        "neighborhoods": [
+          "Central East Austin",
+          "East Austin"
+        ],
+        "building_id": null,
+        "building_url": null,
+        "listing_feed": "EV"
+      }
+    ]
+  }
+}

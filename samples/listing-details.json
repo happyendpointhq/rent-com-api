@@ -1,0 +1,429 @@
+{
+  "success": true,
+  "data": {
+    "listing_id": "lc6705165",
+    "name": "The Ivy",
+    "property_type": "apartments",
+    "url": "https://www.rent.com/apartment/the-ivy-austin-tx-lc6705165",
+    "address": "8912 N Lamar Blvd",
+    "full_address": "8912 N Lamar Blvd, Austin, TX 78753",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753",
+    "latitude": 30.358966,
+    "longitude": -97.70079,
+    "price": 680,
+    "price_text": "$680+",
+    "price_range": {
+      "min": 680,
+      "max": 1250
+    },
+    "beds": {
+      "min": 0,
+      "max": 2
+    },
+    "beds_text": "Studio–2 Beds",
+    "baths": {
+      "min": 1,
+      "max": 1
+    },
+    "baths_text": "1 Bath",
+    "sqft": {
+      "min": 479,
+      "max": 816
+    },
+    "sqft_text": "479–816 Sqft",
+    "price_by_beds": [
+      {
+        "beds": 0,
+        "min": 680,
+        "max": 900
+      },
+      {
+        "beds": 1,
+        "min": 750,
+        "max": 1050
+      },
+      {
+        "beds": 2,
+        "min": 1225,
+        "max": 1250
+      }
+    ],
+    "unit_name": null,
+    "availability_status": "TODAY",
+    "units_available": 37,
+    "units_available_text": "10+ Units Available",
+    "filter_match": null,
+    "primary_photo_url": "https://i.rent.com/4f4d1bfbf7b42b1caa73c5c0ceff552c",
+    "photo_count": 19,
+    "has_price_drop": false,
+    "price_drop": null,
+    "deals": [
+      {
+        "description": "Receive up to 8 weeks free for a limited time!  Don't miss out, contact our office team today for more details!",
+        "category": "Special Offer"
+      }
+    ],
+    "deal_types": [
+      {
+        "kind": "FREE_TIME",
+        "text": "8 Weeks Free"
+      }
+    ],
+    "management_company": {
+      "id": null,
+      "name": "Sandalwood Management",
+      "description": null,
+      "website": null,
+      "logo_url": null
+    },
+    "phone": "7373632554",
+    "phone_text": "(737) 363-2554",
+    "contact_routing": "via_rent_com",
+    "updated_at": "2026-09-22T00:00:00.000Z",
+    "page_views": 281,
+    "demand_label": "High Demand",
+    "vibes": [],
+    "badges": [],
+    "has_3d_tour": false,
+    "listing_source": "ZILLOW",
+    "verified": true,
+    "neighborhood_ids": [
+      9197,
+      75922
+    ],
+    "city_ids": [
+      "4805000"
+    ],
+    "neighborhoods": [
+      "Northwest Austin",
+      "North Austin"
+    ],
+    "building_id": null,
+    "building_url": null,
+    "listing_feed": null,
+    "description": "Discover modern living at The Ivy Apartments in North Austin, where comfort and convenience blend seamlessly. Our studio, one and two-bedroom homes are filled w…",
+    "disclaimer": null,
+    "total_units": 192,
+    "time_zone": null,
+    "photos": [
+      {
+        "url": "https://i.rent.com/4f4d1bfbf7b42b1caa73c5c0ceff552c",
+        "category": null,
+        "caption": null
+      }
+    ],
+    "videos": [],
+    "virtual_tours": [],
+    "office_hours": [
+      {
+        "day": "Sunday",
+        "times": []
+      },
+      {
+        "day": "Monday",
+        "times": [
+          {
+            "open": "09:00 AM",
+            "close": "06:00 PM",
+            "comment": null
+          }
+        ]
+      }
+    ],
+    "amenities": [
+      {
+        "name": "Additional Storage",
+        "category": "Unique",
+        "highlighted": false
+      }
+    ],
+    "amenity_subcategories": [
+      {
+        "amenity": "Additional Storage",
+        "category": "Additional Features",
+        "subcategory": null
+      }
+    ],
+    "highlights": [
+      "Pet Friendly"
+    ],
+    "unique_highlights": [
+      "Fitness Center"
+    ],
+    "floor_plans": [
+      {
+        "floor_plan_id": "lc6705165_6006954_0_1_0",
+        "name": "EI",
+        "beds": 0,
+        "baths": 1,
+        "half_baths": null,
+        "beds_text": "Studio",
+        "baths_text": "1 Ba",
+        "price_range": {
+          "min": 680,
+          "max": 685
+        },
+        "price_range_text": "$680 - $685/mo",
+        "sqft_range": {
+          "min": 479,
+          "max": 479
+        },
+        "available_count": 2,
+        "available_date": null,
+        "availability_text": null,
+        "availability_code": "AVAILABLE_WITH_COUNT",
+        "deposit": null,
+        "amenities": [
+          "Additional Storage",
+          "Ceiling Fan",
+          "Large Closets"
+        ],
+        "photos": [
+          "https://i.rent.com/dc7b6e12fe3f0af9c4de32820ee5e971"
+        ],
+        "floor_plan_image_url": "https://i.rent.com/dc7b6e12fe3f0af9c4de32820ee5e971",
+        "image_3d_furnished_url": null,
+        "image_3d_unfurnished_url": null,
+        "special_offer": null,
+        "price_drop": null,
+        "units": [
+          {
+            "unit_id": "358",
+            "rent": 685,
+            "rent_text": "$685",
+            "date_available": "2026-08-04T00:00:00.000Z",
+            "deposit": null,
+            "sqft": 479,
+            "floor": null,
+            "is_available": true,
+            "availability_code": "AVAILABLE_WITH_COUNT",
+            "special_offer": null
+          },
+          {
+            "unit_id": "249",
+            "rent": 680,
+            "rent_text": "$680",
+            "date_available": "2026-08-14T00:00:00.000Z",
+            "deposit": null,
+            "sqft": 479,
+            "floor": null,
+            "is_available": true,
+            "availability_code": "AVAILABLE_WITH_COUNT",
+            "special_offer": null
+          }
+        ]
+      }
+    ],
+    "fees": {
+      "application_fee": null,
+      "admin_fee": null,
+      "broker_fee": null,
+      "sales_tax": null,
+      "insurance": {
+        "offered_by_property": null,
+        "requirement_info": null,
+        "min_liability": null,
+        "min_property": null,
+        "notes": null
+      },
+      "amenity_fees": {
+        "fee": null,
+        "fee_type": null,
+        "notes": null
+      },
+      "utilities": {
+        "included": {
+          "utilities": null,
+          "notes": null
+        },
+        "tenant_paid": []
+      }
+    },
+    "cost_estimate": {
+      "disclaimer": "Displayed pricing may not reflect all required, optional or variable usage-based fees. For more details, please contact the property directly.",
+      "monthly_total": {
+        "label": "Estimated monthly total",
+        "min": 685,
+        "max": 1250,
+        "text": null
+      },
+      "move_in_total": {
+        "label": "Estimated total",
+        "min": 1000,
+        "max": 1000,
+        "text": null
+      },
+      "monthly_fees": {
+        "label": "Monthly rent, fees & charges",
+        "required": [
+          {
+            "category": "BASE_RENT",
+            "name": "Rent",
+            "min": 685,
+            "max": 1250,
+            "text": null,
+            "quantity": {
+              "min": 1,
+              "max": 1
+            },
+            "disclaimers": [
+              "See unit for details"
+            ],
+            "terms": null
+          }
+        ],
+        "optional": [],
+        "ungrouped": []
+      },
+      "move_in_fees": {
+        "label": "One-time fees & charges",
+        "required": [
+          {
+            "category": "SECURITY_DEPOSIT",
+            "name": "Deposit",
+            "min": 1000,
+            "max": 1000,
+            "text": null,
+            "quantity": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ],
+        "optional": []
+      },
+      "usage_based_fees": {
+        "label": "Additional fees",
+        "required": [],
+        "optional": [],
+        "ungrouped": []
+      },
+      "by_unit": [
+        {
+          "unit_id": "101",
+          "floor_plan_unit_id": "101",
+          "floor_plan_id": "lc6705165_6007056_1_1_0",
+          "monthly_total": {
+            "label": "Estimated monthly total",
+            "min": 750,
+            "max": 750,
+            "text": null
+          },
+          "move_in_total": {
+            "label": "Estimated total",
+            "min": 1000,
+            "max": 1000,
+            "text": null
+          },
+          "monthly_fees": {
+            "label": "Monthly rent, fees & charges",
+            "required": [
+              {
+                "category": "BASE_RENT",
+                "name": "Rent",
+                "min": 750,
+                "max": 750,
+                "text": null,
+                "quantity": {
+                  "min": 1,
+                  "max": 1
+                },
+                "disclaimers": [
+                  "Based on a 13-month lease and includes fixed, required monthly fees"
+                ],
+                "terms": null
+              }
+            ],
+            "optional": [],
+            "ungrouped": []
+          },
+          "move_in_fees": {
+            "label": "One-time fees & charges",
+            "required": [
+              {
+                "category": "SECURITY_DEPOSIT",
+                "name": "Deposit",
+                "min": 1000,
+                "max": 1000,
+                "text": null,
+                "quantity": {
+                  "min": 1,
+                  "max": 1
+                }
+              }
+            ],
+            "optional": []
+          },
+          "usage_based_fees": {
+            "label": "Additional fees",
+            "required": [],
+            "optional": [],
+            "ungrouped": []
+          }
+        }
+      ]
+    },
+    "pet_policies": [
+      {
+        "policy_id": "CATS_ALLOWED",
+        "label": "Cats Allowed",
+        "comment": "Cat",
+        "deposit": null,
+        "initial_fee": null,
+        "monthly_rent": null,
+        "max_pets": null,
+        "weight_limit": null,
+        "pet_care": false
+      }
+    ],
+    "parking": [],
+    "leasing_terms": [],
+    "special_terms": "Available months 13",
+    "income_restrictions": [],
+    "schools": [
+      {
+        "school_id": "480894000327",
+        "name": "Navarro Early College High School",
+        "type": "public",
+        "grade": "9-12",
+        "district": "Austin Independent School District",
+        "rating": 3,
+        "distance_miles": 0.5,
+        "greatschools_url": "https://www.greatschools.org/texas/austin/554-Lanier-High-School/",
+        "address": "1201 Payton Gin Road",
+        "city": "Austin",
+        "zip": "78758",
+        "phone": "(512) 414-2514",
+        "latitude": 30.360209,
+        "longitude": -97.708321
+      }
+    ],
+    "walk_score": {
+      "walk_score": 70,
+      "walk_description": "Very Walkable",
+      "transit_score": 48,
+      "transit_description": "Some Transit",
+      "transit_summary": "9 nearby routes: 9 bus, 0 rail, 0 other",
+      "bike_score": 69,
+      "bike_description": "Bikeable",
+      "categories": {
+        "culture": 22,
+        "errands": 82,
+        "grocery": 88,
+        "parks": 11,
+        "schools": 67,
+        "shopping": 83,
+        "dining": 77
+      },
+      "walkscore_url": "https://www.walkscore.com/score/loc/lat=30.358966/lng=-97.700790/",
+      "updated_at": "2026-02-11T17:04:29.000Z"
+    },
+    "popularity_score": null,
+    "off_market": false,
+    "apply_online": false,
+    "application_url": null,
+    "website": null
+  }
+}

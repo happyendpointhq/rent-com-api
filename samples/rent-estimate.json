@@ -1,0 +1,188 @@
+{
+  "success": true,
+  "data": {
+    "center": {
+      "latitude": 30.2672,
+      "longitude": -97.7431
+    },
+    "beds": 2,
+    "radius_miles": null,
+    "comparables_count": 300,
+    "comparables_complete": true,
+    "min": 895,
+    "mean": 2454,
+    "max": 20318,
+    "median": 2100,
+    "comparables_returned": 100,
+    "comparables": [
+      {
+        "listing_id": "lv3258870131",
+        "name": "210 Lavaca St unit 2602",
+        "property_type": "condo",
+        "url": "https://www.rent.com/r/210-lavaca-st-austin-tx-lv3258870131",
+        "address": "210 Lavaca St unit 2602",
+        "full_address": "210 Lavaca St unit 2602, Austin, TX 78701",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78701",
+        "latitude": 30.2647991,
+        "longitude": -97.7444829,
+        "price": 6500,
+        "price_text": "$6,500",
+        "price_range": {
+          "min": 6500,
+          "max": 6500
+        },
+        "beds": {
+          "min": 2,
+          "max": 2
+        },
+        "beds_text": "2 Beds",
+        "baths": {
+          "min": 2,
+          "max": 2
+        },
+        "baths_text": "2 Baths",
+        "sqft": {
+          "min": 1169,
+          "max": 1169
+        },
+        "sqft_text": "1169 Sqft",
+        "price_by_beds": [
+          {
+            "beds": 2,
+            "min": 6500,
+            "max": 6500
+          }
+        ],
+        "unit_name": "2602",
+        "availability_status": "TODAY",
+        "units_available": null,
+        "units_available_text": "1 Unit Available",
+        "filter_match": null,
+        "primary_photo_url": "https://i.rent.com/f98fe5f21a7c648df7e7528f5f522cea",
+        "photo_count": 23,
+        "has_price_drop": false,
+        "price_drop": null,
+        "deals": [],
+        "deal_types": [],
+        "management_company": null,
+        "phone": "5550100100",
+        "phone_text": "(555) 010-0100",
+        "contact_routing": "direct_agent",
+        "updated_at": "2026-08-16T06:15:41.000Z",
+        "page_views": null,
+        "demand_label": null,
+        "vibes": [
+          "Great Price",
+          "Lively Hub"
+        ],
+        "badges": [],
+        "has_3d_tour": false,
+        "listing_source": "LOVELY",
+        "verified": false,
+        "neighborhood_ids": [
+          9177,
+          1059800
+        ],
+        "city_ids": [
+          "4805000"
+        ],
+        "neighborhoods": [
+          "2nd Street District",
+          "Central Austin"
+        ],
+        "building_id": "b83674",
+        "building_url": "https://www.rent.com/building/210-lavaca-st-austin-tx-b83674",
+        "listing_feed": "ACTRIS",
+        "distance_miles": 0.19
+      },
+      {
+        "listing_id": "lc6338037",
+        "name": "Sunset Trails",
+        "property_type": "townhome",
+        "url": "https://www.rent.com/apartment/sunset-trails-austin-tx-lc6338037",
+        "address": "5009 Sunset Trl",
+        "full_address": "5009 Sunset Trl, Austin, TX 78745",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78745",
+        "latitude": 30.227137,
+        "longitude": -97.80464,
+        "price": 1695,
+        "price_text": "$1,695",
+        "price_range": {
+          "min": 1695,
+          "max": 1695
+        },
+        "beds": {
+          "min": 2,
+          "max": 2
+        },
+        "beds_text": "2 Beds",
+        "baths": {
+          "min": 1,
+          "max": 1
+        },
+        "baths_text": "1 Bath",
+        "sqft": {
+          "min": 900,
+          "max": 900
+        },
+        "sqft_text": "900 Sqft",
+        "price_by_beds": [
+          {
+            "beds": 2,
+            "min": 1695,
+            "max": 1695
+          }
+        ],
+        "unit_name": null,
+        "availability_status": "TODAY",
+        "units_available": null,
+        "units_available_text": "Available Nov 17",
+        "filter_match": null,
+        "primary_photo_url": "https://i.rent.com/60120a54d2cb0912d5c3200bdf7c72a7",
+        "photo_count": 12,
+        "has_price_drop": false,
+        "price_drop": null,
+        "deals": [
+          {
+            "description": "Tour Today, Apply Within 24 Hours & Get Your Fees BACK! Application & admin fees go straight toward your move-in costs.  Limited-time don't sleep on this!",
+            "category": "Special Offer"
+          }
+        ],
+        "deal_types": [],
+        "management_company": "H.G. Fenton",
+        "phone": "7374092805",
+        "phone_text": "(737) 409-2805",
+        "contact_routing": "via_rent_com",
+        "updated_at": "2026-09-15T00:00:00.000Z",
+        "page_views": 26,
+        "demand_label": "Rising Demand",
+        "vibes": [
+          "Near Nature"
+        ],
+        "badges": [],
+        "has_3d_tour": false,
+        "listing_source": "ZILLOW",
+        "verified": true,
+        "neighborhood_ids": [
+          9225,
+          1059799
+        ],
+        "city_ids": [
+          "4805000"
+        ],
+        "neighborhoods": [
+          "South Austin",
+          "Westgate"
+        ],
+        "building_id": null,
+        "building_url": null,
+        "listing_feed": null,
+        "distance_miles": 4.6
+      }
+    ]
+  }
+}
