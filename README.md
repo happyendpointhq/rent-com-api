@@ -317,6 +317,7 @@ Yes, including Realtor.com, Auction.com and Vrbo. See the
 
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - real estate APIs and data sources by country, including free and official ones
 - [awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) - alternative data sources for investment research
+- [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish sale and rental listings, with the same kind of runnable Python examples
 - [dubai-property-price-tracker](https://github.com/happyendpointhq/dubai-property-price-tracker) - the watchlist idea, built out with SQLite, a scheduler and alerts
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - more Python patterns for a property API
 
