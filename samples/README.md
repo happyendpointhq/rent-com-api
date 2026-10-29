@@ -2,7 +2,8 @@
 
 Example `200` responses for six Rent.com API endpoints, copied from the API's public
 documentation. Long arrays are cut to their first few items, and listing agent contact
-fields are removed. Field names and values are otherwise unchanged.
+fields are removed. Phone numbers are replaced with the fictional `(555) 010-0100`.
+Field names and values are otherwise unchanged.
 
 | File | Request |
 |---|---|
