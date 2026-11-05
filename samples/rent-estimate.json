@@ -17,16 +17,16 @@
     "comparables": [
       {
         "listing_id": "lv3258870131",
-        "name": "210 Lavaca St unit 2602",
+        "name": "210 Lavaca St",
         "property_type": "condo",
         "url": "https://www.rent.com/r/210-lavaca-st-austin-tx-lv3258870131",
-        "address": "210 Lavaca St unit 2602",
-        "full_address": "210 Lavaca St unit 2602, Austin, TX 78701",
+        "address": "210 Lavaca St",
+        "full_address": "210 Lavaca St, Austin, TX 78701",
         "city": "Austin",
         "state": "TX",
         "zip": "78701",
-        "latitude": 30.2647991,
-        "longitude": -97.7444829,
+        "latitude": 30.265,
+        "longitude": -97.744,
         "price": 6500,
         "price_text": "$6,500",
         "price_range": {
@@ -55,7 +55,7 @@
             "max": 6500
           }
         ],
-        "unit_name": "2602",
+        "unit_name": "[removed]",
         "availability_status": "TODAY",
         "units_available": null,
         "units_available_text": "1 Unit Available",

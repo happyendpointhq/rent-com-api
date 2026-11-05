@@ -5,6 +5,8 @@ documentation. Long arrays are cut to their first few items, and listing agent c
 fields are removed. Phone numbers are replaced with the fictional `(555) 010-0100`.
 Field names and values are otherwise unchanged.
 
+Privacy review (4 Nov 2026): the single house in `listings-by-ids.json` (`lc6820590`) keeps its street, city and ZIP but not its house number, its `url` reads `[removed]`, and the condo unit in `rent-estimate.json` (`lv3258870131`) keeps its tower address but not its unit (`unit_name` reads `[removed]`). Both homes' coordinates are rounded to three decimals (about 100 m). Apartment communities are unchanged.
+
 | File | Request |
 |---|---|
 | `locations.json` | `GET /locations?query=austin` |
